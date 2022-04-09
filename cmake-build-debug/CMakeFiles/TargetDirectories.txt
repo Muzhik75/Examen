@@ -1,0 +1,3 @@
+C:/Users/Student RPO/CLionProjects/Exam_001/cmake-build-debug/CMakeFiles/Exam_001.dir
+C:/Users/Student RPO/CLionProjects/Exam_001/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Student RPO/CLionProjects/Exam_001/cmake-build-debug/CMakeFiles/rebuild_cache.dir
